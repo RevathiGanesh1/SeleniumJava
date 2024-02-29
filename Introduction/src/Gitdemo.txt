@@ -3,4 +3,6 @@ name
 place
 city
 address
-phone number
+
+mobile = 1234569872
+"I m removing the phone number text and adding mobile & number"
